@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Learning</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="buton_send">Send</string>
+    <string name="accel_x">Accel X</string>
+    <string name="accel_y">Accel Y</string>
+    <string name="accel_z">Accel Z</string>
+    <string name="gyro_x">Gyro X</string>
+    <string name="gyro_y">Gyro Y</string>
+    <string name="gyro_z">Gyro Z</string>
+    <string name="magno_x">Magno X</string>
+    <string name="magno_y">Magno Y</string>
+    <string name="magno_z">MAgno Z</string>
+</resources>
